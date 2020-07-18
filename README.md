@@ -24,6 +24,50 @@ Here are some ideas to get you started:
     <th>Learning</th>
   </tr>
   <tr>
+    <td>React.js</td>
+    <td>Node.js</td>
+    <td>PostgreSQL</td>
+    <td>Angular.js</td>
+
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>Express.js</td>
+    <td>Oracle</td>
+    <td>Vue.js</td>
+
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>PHP</td>
+    <td></td>
+    <td>Go</td>
+
+  </tr>
+  <tr>
+    <td>HTML</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+  </tr>
+
+</table>
+
+<!-- ## ⚡ Skills:
+<table style="width:100%" >
+  <tr>
+    <th>Front End</th>
+    <th>Back End</th> 
+    <th>Server</th> 
+    <th>Learning</th>
+  </tr>
+  <tr>
     <td><img style= "width:35px; height:35px;" src = "./pictures/another react logo.png">React.js</td>
     <td><img style= "width:35px; height:35px;" src = "./pictures/node-js-icon.png">Node.js</td>
     <td><img style= "width:35px; height:35px;" src = "./pictures/postgresql.png">PostgreSQL</td>
@@ -38,7 +82,7 @@ Here are some ideas to get you started:
 
   </tr>
   <tr>
-    <td><img style= "width:35px; height:35px;" src = "https://cdn.glitch.com/875fcc3a-ee91-4d48-806c-d5b121d9c21c%2Fjavascript-icon.png?v=1594835510447">JavaScript</td>
+    <td><img style= "width:35px; height:35px;" src = "./pictures/javascript-icon.png">JavaScript</td>
     <td><img style= "width:35px; height:35px;" src = "./pictures/php.png">PHP</td>
     <td><img style= "width:35px; height:35px;"></td>
     <td><img style= "width:35px; height:35px;" src = "./pictures/golang.png">Go</td>
@@ -57,4 +101,4 @@ Here are some ideas to get you started:
     <td><img style= "width:35px; height:35px;" src = "./pictures/typescript.png">TypeScript</td>
   </tr>
 
-</table>
+</table> -->
