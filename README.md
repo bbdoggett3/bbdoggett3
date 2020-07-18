@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello World! Ben Doggett here and I love Coding👋
 
 <!--
 **bbdoggett3/bbdoggett3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
