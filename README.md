@@ -21,12 +21,14 @@ Here are some ideas to get you started:
     <th>Front End</th>
     <th>Back End</th> 
     <th>Server</th> 
+    <th>Other</th>
     <th>Learning</th>
   </tr>
   <tr>
     <td>React.js</td>
     <td>Node.js</td>
     <td>PostgreSQL</td>
+    <td>Visual Studios</td>
     <td>Angular.js</td>
 
   </tr>
@@ -34,6 +36,7 @@ Here are some ideas to get you started:
     <td>C++</td>
     <td>Express.js</td>
     <td>Oracle</td>
+    <td>Git</td>
     <td>Vue.js</td>
 
   </tr>
@@ -41,14 +44,21 @@ Here are some ideas to get you started:
     <td>JavaScript</td>
     <td>PHP</td>
     <td></td>
+    <td>GitHub</td>
     <td>Go</td>
 
   </tr>
   <tr>
     <td>HTML</td>
+    <td></td>
+    <td></td>
+    <td>Heroku</td>
   </tr>
   <tr>
     <td>CSS</td>
+    <td></td>
+    <td></td>
+    <td>Android Studios</td>
   </tr>
   <tr>
     <td>Java</td>
@@ -56,6 +66,11 @@ Here are some ideas to get you started:
   <tr>
     <td>TypeScript</td>
   </tr>
+    <tr>
+    <td>SasS</td>
+  </tr>
+
+
 
 </table>
 
