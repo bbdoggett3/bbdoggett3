@@ -53,12 +53,14 @@ Here are some ideas to get you started:
     <td></td>
     <td></td>
     <td>Heroku</td>
+    <td></td>
   </tr>
   <tr>
     <td>CSS</td>
     <td></td>
     <td></td>
     <td>Android Studios</td>
+    <td></td>
   </tr>
   <tr>
     <td>Java</td>
