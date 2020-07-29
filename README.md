@@ -64,12 +64,24 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>Java</td>
+    <td></td>
+    <td></td>
+    <td>Nodemailer</td>
+    <td></td>
   </tr>
   <tr>
     <td>TypeScript</td>
+    <td></td>
+    <td></td>
+    <td>Chart.js</td>
+    <td></td>
   </tr>
     <tr>
     <td>SasS</td>
+    <td></td>
+    <td></td>
+    <td>Command Line</td>
+    <td></td>
   </tr>
 
 
